@@ -1,20 +1,27 @@
-# Tammy Hartline's STEM Leadership e-Portfolio
+## Tammy Hartline's E-Portfolio
+### Experienced Software Engineer, Data Analyst, & STEM Project Management
 
-## Introduction:
-Greetings! I'm Tammy Hartline, a dedicated Computer Science enthusiast with a specialization in Data Analytics. My academic journey has been a thrilling exploration of various facets within the realm of computer science. Initially drawn to STEM Project Management, I embarked on a path that not only refined my leadership and business skills but also provided me with real-world experiences.
 
-## Unveiling My Passion:
-While pursuing my original concentration in STEM Project Management, I had the privilege of immersing myself in courses designed to enhance my leadership capabilities. However, it was during a hands-on role as a Project Manager in a real-world scenario that I made a significant revelation. Despite excelling and surpassing expectations in the project management domain, I realized that passion plays a pivotal role in career fulfillment.
+<img src="https://media.licdn.com/dms/image/D5603AQGil6vwByqc7g/profile-displayphoto-shrink_800_800/0/1695260208506?e=1721260800&v=beta&t=txt3Nl4Dbmil-2qhUp0Rv0HeATRYXOunV1W4QPhnjx8"/>
 
-## Embracing Change:
-Recognizing the importance of passion, I underwent a transformative shift. I redirected my focus towards areas that truly ignited my enthusiasm within the dynamic landscape of Computer Science. This change not only invigorated my professional journey but also allowed me to harness my skills in a way that aligns seamlessly with my genuine interests.
-
-## Areas of Expertise:
-### 1. Data Analytics:
-My specialization in Data Analytics has equipped me with the analytical prowess to derive valuable insights from complex datasets. From exploratory data analysis to predictive modeling, my skills in this domain empower me to make informed decisions driven by data.
-
-### 2. Leadership and Business Acumen:
-My exposure to STEM Project Management has honed my leadership and business acumen. I've successfully navigated through project lifecycles, ensuring efficient collaboration, resource optimization, and timely delivery of results.
-
-## Looking Ahead:
-As I present my STEM Leadership e-Portfolio, I invite you to delve into the projects, experiences, and skills that define my journey. Each step has been a purposeful stride towards a holistic understanding of Computer Science and effective leadership in the ever-evolving technological landscape.
+### Self-Introduction and Assessment
+My journey into the field of computer science began with a fascination for technology that sparked when the internet was launched to the public. Although computers at that time lacked the advanced features and user-friendliness of today, the potential for growth and innovation captivated me. During my freshman year of college in 2005, I enrolled in a few computer science courses, only to find myself as the sole female student, facing discouragement from pursuing this field. Consequently, I chose to pursue a degree in Business Administration with a concentration in Accounting.
+<br/>
+<br/>
+After college, my fondest moments at work were when our systems encountered issues, allowing me to explore the command prompt and restore the network to full operation. Following a diagnosis of narcolepsy with cataplexy, I shifted my focus to being a stay-at-home mother to my three daughters and working seasonally as a tax specialist. Little did I know that the COVID-19 pandemic would reignite my passion for technology.
+<br/>
+<br/>
+Confined at home during the pandemic, I became interested in remote work opportunities and was hired as a QuickBooks Payroll software support agent. Within three months, my coworkers encouraged me to explore roles in engineering or development, recognizing my aptitude for technology.
+Over the next six months, I immersed myself in researching technical careers, taking free courses, and utilizing open-source resources from institutions like MIT and Harvard to expand my knowledge. In May 2022, I took a leap of faith and enrolled in the computer science program at SNHU, simultaneously starting as a student worker in the analytics department.
+<br/>
+<br/>
+For nearly two years, I balanced my studies with remote work at SNHU, only resigning in November 2023 after accepting an offer as a project lead at Scale AI. During my academic journey, my concentration shifted from STEM Project Management to Software Engineering and finally to Data Analysis, reflecting the breadth of specializations available within computer science.
+<br/>
+<br/>
+Throughout this experience, I have cultivated a profound love for learning. I constantly seek to expand my knowledge, never feeling proficient enough or bored with mastering a specific skill. This insatiable curiosity has led me to learn and code in a diverse array of languages and technologies, including HTML, CSS, M+, DAX, SQL, NoSQL, Java, Python, JavaScript, Spring Boot, JUnit, Ruby, PHP, C, C++, C#, XML, MATLAB, Kotlin, Flutter, Dart, Android Studio, .NET, Bash, GraphQL, Salesforce, Power BI, Tableau, and TypeScript.
+<br/>
+<br/>
+While I may not be an expert in any single language, I am proficient in nearly all of them. My skills encompass manually creating 3D and 4D images, developing dynamic and interactive web or mobile applications, building websites, performing data analysis, creating interactive analytic dashboards, and more.
+<br/>
+<br/>
+As I reflect on my journey, I am filled with gratitude for the opportunities that have allowed me to explore and cultivate my passion for computer science. The enhancements I have proposed for my ePortfolio will showcase my proficiency in software engineering, algorithm design, database optimization, web development, version control, and deployment processes. These skills align seamlessly with my career aspirations of being able to adapt to any technological role I am offered and contribute to the specialization of AI and Data Analysis in the field of computer science.
